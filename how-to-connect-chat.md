@@ -1,6 +1,6 @@
 # Как подключить Groop к чату?
 
-(https://svestudio.github.io/my-knowledge-base/assets/1.jpg)
+(1.jpg)
 - [Шаг 2](https://svestudio.github.io/my-knowledge-base/assets/2.jpg)
 - [Шаг 3](https://svestudio.github.io/my-knowledge-base/assets/3.jpg)
 - [Шаг 4](https://svestudio.github.io/my-knowledge-base/assets/4.jpg)
