@@ -1,5 +1,5 @@
 # Как подключить Groop к чату?
-![](https://svestudio.github.io/my-knowledge-base/assets/Frame%205.jpg)  
+![](https://svestudio.github.io/my-knowledge-base/assets/Frame5.png)  
 Выполните 5 шагов, чтобы запустить Groop в вашем телеграм-чате:  
 1️⃣ В панели быстрого доступа в приложении Groop нажмите на кнопку «Добавить» (+) и выберите пункт «Добавить в чат»  
 2️⃣ Из списка чатов выберите нужный групповой чат  
