@@ -6,4 +6,4 @@
 
 - [Что такое продукт?](product.md)
 - [Как зарегистрироваться?](register.md)
-- [Как подключить Groop к чату?] (how-to-connect-chat.md)
+- [Как подключить Groop к чату?](how-to-connect-chat.md)
